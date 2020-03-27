@@ -6,3 +6,8 @@ Aplicación móvil desarrollada en Xamarín para plataforma Android/IOS, la cual
 
 Adicionalmente los clientes pueden de igual forma publicar servicios que necesiten de un trabjador técnico y por medio de la plataforma adquieran el servicios de manera segura, confiable y sencilla.
 
+
+
+
+
+
